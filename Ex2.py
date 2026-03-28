@@ -8,4 +8,3 @@ def Ex2():
     return res
 
 print(Ex2())
-
